@@ -1,0 +1,6 @@
+.vs/
+packages/
+*/obj
+*/bin
+/src/Beastie.Sitecore.Extensions/bin
+/src/Beastie.Sitecore.Extensions/obj
